@@ -1,7 +1,7 @@
-Контент-менеджер: <br>
+<h3> Контент-менеджер:</h3> <br>
 https://dev.1c-bitrix.ru/learning/check_cert.php <br>
-LRN-416958-34-905-6376256 <br>
-Шаблон компонента: <br>
+Номер сертификата:LRN-416958-34-905-6376256 <br>
+<h3> Шаблон компонента: </h3> <br>
 csv - экспортированный инфоблок<br>
 Шаблон компонента news.list:
 ![image](https://user-images.githubusercontent.com/98646246/175771026-04948ca5-ab92-4cd0-886c-90291ed1fc79.png)
