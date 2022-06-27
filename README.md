@@ -1,5 +1,5 @@
 Контент-менеджер: <br>
-https://dev.1c-bitrix.ru/learning/check_cert.php
+https://dev.1c-bitrix.ru/learning/check_cert.php <br>
 LRN-416958-34-905-6376256
 Шаблон компонента: <br>
 csv - экспортированный инфоблок<br>
